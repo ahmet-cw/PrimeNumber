@@ -1,1 +1,1 @@
-# PrimeNumber
+# Prime Number Assignment
